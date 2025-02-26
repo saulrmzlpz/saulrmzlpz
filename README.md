@@ -33,11 +33,6 @@ I am a **software developer** with experience in mobile and backend technologies
 - **Protocols:**
   - EUROMAP63
 
-🔹 **Languages and Frameworks:** Flutter, Android (Java/Kotlin), iOS, Xamarin (Android/iOS), .NET Core, C#, PHP  
-🔹 **Databases:** SQL Server, MariaDB, MySQL, Couchbase  
-🔹 **DevOps & Tools:** Jenkins, Docker  
-🔹 **Protocols:** EUROMAP63  
-
 ## 📌 Experience
 
 💼 **Mobile Software Engineer** at *VISE México* (Feb. 2022 - Present)
@@ -102,11 +97,6 @@ Soy un **desarrollador de software** con experiencia en tecnologías móviles y 
 
 - **Protocolos:**
   - EUROMAP63
-
-🔹 **Lenguajes y Frameworks:** Flutter, Android (Java/Kotlin), iOS, Xamarin (Android/iOS), .NET Core, C#, PHP  
-🔹 **Bases de datos:** SQL Server, MariaDB, MySQL, Couchbase  
-🔹 **DevOps y Herramientas:** Jenkins, Docker  
-🔹 **Protocolos:** EUROMAP63  
 
 ## 📌 Experiencia
 
