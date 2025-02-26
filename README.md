@@ -8,6 +8,31 @@ I am a **software developer** with experience in mobile and backend technologies
 
 ## 🚀 Technologies and Tools
 
+- **Languages and Frameworks:**
+  - Flutter (Provider, Riverpod, Push Notifications with Firebase, Flutter Hive)
+  - Android (Java/Kotlin)
+  - iOS
+  - Xamarin (Android/iOS)
+  - .NET Core
+  - C#
+  - PHP
+
+- **Databases:**
+  - SQL Server
+  - MariaDB
+  - MySQL
+  - Couchbase
+
+- **DevOps & Tools:**
+  - Jenkins
+  - Docker
+  - Git
+  - Git Flow
+  - GitLab Merge Request Flow
+
+- **Protocols:**
+  - EUROMAP63
+
 🔹 **Languages and Frameworks:** Flutter, Android (Java/Kotlin), iOS, Xamarin (Android/iOS), .NET Core, C#, PHP  
 🔹 **Databases:** SQL Server, MariaDB, MySQL, Couchbase  
 🔹 **DevOps & Tools:** Jenkins, Docker  
@@ -52,6 +77,31 @@ _(Coming soon: Stats and fun details!)_ 😃
 Soy un **desarrollador de software** con experiencia en tecnologías móviles y backend. Me especializo en Flutter, pero también he trabajado con varias tecnologías a lo largo de mi carrera. Siempre busco mejorar mis habilidades y compartir conocimiento con la comunidad.
 
 ## 🚀 Tecnologías y herramientas
+
+- **Lenguajes y Frameworks:**
+  - Flutter (Provider, Riverpod, Notificaciones Push con Firebase, Flutter Hive)
+  - Android (Java/Kotlin)
+  - iOS
+  - Xamarin (Android/iOS)
+  - .NET Core
+  - C#
+  - PHP
+
+- **Bases de datos:**
+  - SQL Server
+  - MariaDB
+  - MySQL
+  - Couchbase
+
+- **DevOps y Herramientas:**
+  - Jenkins
+  - Docker
+  - Git
+  - Git Flow
+  - GitLab Merge Request Flow
+
+- **Protocolos:**
+  - EUROMAP63
 
 🔹 **Lenguajes y Frameworks:** Flutter, Android (Java/Kotlin), iOS, Xamarin (Android/iOS), .NET Core, C#, PHP  
 🔹 **Bases de datos:** SQL Server, MariaDB, MySQL, Couchbase  
