@@ -11,10 +11,9 @@ I am a **software developer** with experience in mobile and backend technologies
 - **Languages and Frameworks:**
   - Flutter (Provider, Riverpod, Push Notifications with Firebase, Flutter Hive)
   - Android (Java/Kotlin)
-  - iOS
+  - iOS (Swift)
   - Xamarin (Android/iOS)
-  - .NET Core
-  - C#
+  - .NET Core (C#)
   - PHP
 
 - **Databases:**
@@ -58,6 +57,7 @@ If you are interested in collaborating on a project or just want to chat about t
 
 📧 **Email:** saulrmzlpz@outlook.com  
 💼 **LinkedIn:** [Saúl Ramírez López](https://www.linkedin.com/in/sa%C3%BAl-ram%C3%ADrez-l%C3%B3pez-91572210a)  
+🌐 **Portfolio:** [saulrmzlpz.github.io](https://saulrmzlpz.github.io/)  
 
 ## 📊 Extras
 
@@ -76,10 +76,9 @@ Soy un **desarrollador de software** con experiencia en tecnologías móviles y 
 - **Lenguajes y Frameworks:**
   - Flutter (Provider, Riverpod, Notificaciones Push con Firebase, Flutter Hive)
   - Android (Java/Kotlin)
-  - iOS
+  - iOS (Swift)
   - Xamarin (Android/iOS)
-  - .NET Core
-  - C#
+  - .NET Core (C#)
   - PHP
 
 - **Bases de datos:**
@@ -123,6 +122,7 @@ Si estás interesado en colaborar en un proyecto o simplemente quieres charlar s
 
 📧 **Correo:** saulrmzlpz@outlook.com  
 💼 **LinkedIn:** [Saúl Ramírez López](https://www.linkedin.com/in/sa%C3%BAl-ram%C3%ADrez-l%C3%B3pez-91572210a)  
+🌐 **Portafolio:** [saulrmzlpz.github.io](https://saulrmzlpz.github.io/)  
 
 ## 📊 Extras
 
